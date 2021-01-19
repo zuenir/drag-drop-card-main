@@ -1,0 +1,20 @@
+/*===== GOOGLE FONTS =====*/
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap");
+
+/*===== VARIABLES CSS =====*/
+:root {
+  /*===== Colors =====*/
+  --first-color: #272A3A;
+  --first-color-light: #8A8EAA;
+  --first-color-lighten: #F8F8FC;
+
+  /*===== Font and typography =====*/
+  --body-font: 'Ubuntu', sans-serif;
+  --normal-font-size: 1rem;
+  --smaller-font-size: .813rem;
+}
+
+/*===== BASE =====*/
+
+/*===== DRAG and DROP =====*/
+
